@@ -1,0 +1,14 @@
+Curso de Capacitação em Pesquisa Experimental no R
+
+
+O objetivo deste curso é capacitar os alunos para trabalhar com experimentos de survey utilizando da linguagem R e outros dispositivos auxiliares. Espera-se que ao final do curso os alunos tenham plena domínio da linguagem R e de suas diversas funcionakidades e consigamm elaborar seus próprios surveys.
+
+Esse GitHub tem   pastas:
+         1. Materiais de apoio: programa das aulas, materiais de instrução e slides das aulas de capacitação
+		 2. Bancos de dados usados nos exercícios: bancos de dados usados nos exercícios
+		 3. Códigos: scripts de R e outros materiais
+		 4. Prática: exercícios que devem ser realizados pelos alunos ao final da exposição teórica
+
+Vocês devem baixar o conteúdo desse GitHub automaticamente via R Studio. Ao início de cada aula, vocês devem dar um push para atualizar o conteúdo
+
+Qualquer dúvida podem vir falar comigo!
